@@ -4,6 +4,6 @@
 
 int version()
 {
-	int i;
+	int i=0;
     return PROJECT_VERSION_PATCH;
 }
